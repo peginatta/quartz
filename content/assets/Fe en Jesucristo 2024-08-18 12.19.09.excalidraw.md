@@ -7,7 +7,8 @@ tags: [excalidraw]
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
 
-# Text Elements
+# Excalidraw Data
+## Text Elements
 Fe en Jesucristo ^wOHLdxR4
 
 Como Mesias 
@@ -24,705 +25,70 @@ No da credibilidad ^cNOGouXM
 El hecho de la RESURRECCIÓN: ^9WCV4CcH
 
 %%
-# Drawing
-```json
-{
-	"type": "excalidraw",
-	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.22",
-	"elements": [
-		{
-			"id": "INRg_jGe9ozzmNyQ5_V9J",
-			"type": "rectangle",
-			"x": -136.97793579101562,
-			"y": -238.8185272216797,
-			"width": 306.55078125,
-			"height": 119.14590454101562,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 169097267,
-			"version": 181,
-			"versionNonce": 112277341,
-			"isDeleted": false,
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "wOHLdxR4"
-				},
-				{
-					"id": "0OOSPWO94nPrgoBdR-g-9",
-					"type": "arrow"
-				},
-				{
-					"id": "-45FIf8q4z9SnGSkmirxh",
-					"type": "arrow"
-				},
-				{
-					"id": "s9J660gw46D1HNpPMfs37",
-					"type": "arrow"
-				}
-			],
-			"updated": 1723976677307,
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "wOHLdxR4",
-			"type": "text",
-			"x": -66.10247039794922,
-			"y": -191.74557495117188,
-			"width": 164.7998504638672,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1348203539,
-			"version": 114,
-			"versionNonce": 1638283507,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1723976677307,
-			"link": null,
-			"locked": false,
-			"text": "Fe en Jesucristo",
-			"rawText": "Fe en Jesucristo",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"baseline": 17,
-			"containerId": "INRg_jGe9ozzmNyQ5_V9J",
-			"originalText": "Fe en Jesucristo",
-			"lineHeight": 1.25
-		},
-		{
-			"id": "0OOSPWO94nPrgoBdR-g-9",
-			"type": "arrow",
-			"x": 5.214168893445802,
-			"y": -117.52073669433594,
-			"width": 258.22494159852386,
-			"height": 141.35861206054688,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"seed": 1784489875,
-			"version": 707,
-			"versionNonce": 497828797,
-			"isDeleted": false,
-			"boundElements": [],
-			"updated": 1723976677307,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-49.98275409852393,
-					39.38778305053711
-				],
-				[
-					-186.7350734344614,
-					51.299346923828125
-				],
-				[
-					-258.22494159852386,
-					141.35861206054688
-				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": {
-				"elementId": "INRg_jGe9ozzmNyQ5_V9J",
-				"focus": -0.2938092826315667,
-				"gap": 2.151885986328125
-			},
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
-		},
-		{
-			"id": "k3oCpjl7",
-			"type": "text",
-			"x": -334.8456726074219,
-			"y": 41.10954284667969,
-			"width": 170.2198486328125,
-			"height": 50,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1753815453,
-			"version": 85,
-			"versionNonce": 351838867,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1723976677307,
-			"link": null,
-			"locked": false,
-			"text": "Como Mesias \n(enviado de Dios)",
-			"rawText": "Como Mesias \n(enviado de Dios)",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "center",
-			"verticalAlign": "top",
-			"baseline": 42,
-			"containerId": null,
-			"originalText": "Como Mesias \n(enviado de Dios)",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "arrow",
-			"version": 1036,
-			"versionNonce": 1313260573,
-			"isDeleted": false,
-			"id": "-45FIf8q4z9SnGSkmirxh",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 2.8884812326414817,
-			"y": -115.51622616482697,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 30.662368864930386,
-			"height": 183.6838305370862,
-			"seed": 2038741341,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1723976677307,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "INRg_jGe9ozzmNyQ5_V9J",
-				"focus": 0.08218538871888653,
-				"gap": 4.156396515837088
-			},
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-0.6353211172622082,
-					53.695118685935114
-				],
-				[
-					-21.66331144001674,
-					107.45800568091589
-				],
-				[
-					8.999057424913644,
-					183.6838305370862
-				]
-			]
-		},
-		{
-			"id": "bWfybylh",
-			"type": "text",
-			"x": -84.10026550292969,
-			"y": 85.19465255737305,
-			"width": 195.79983520507812,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 713517629,
-			"version": 82,
-			"versionNonce": 831313971,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1723976677307,
-			"link": null,
-			"locked": false,
-			"text": "Como Hijo del Padre",
-			"rawText": "Como Hijo del Padre",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "center",
-			"verticalAlign": "top",
-			"baseline": 17,
-			"containerId": null,
-			"originalText": "Como Hijo del Padre",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "arrow",
-			"version": 1425,
-			"versionNonce": 609364765,
-			"isDeleted": false,
-			"id": "s9J660gw46D1HNpPMfs37",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 8.881606715944201,
-			"y": -117.88093657242032,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 279.92410625303864,
-			"height": 177.08467892575808,
-			"seed": 384845427,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1723976692053,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "INRg_jGe9ozzmNyQ5_V9J",
-				"focus": 0.35913648001197895,
-				"gap": 1.7916861082437379
-			},
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					59.80083610930029,
-					50.18227078554449
-				],
-				[
-					232.16456941935826,
-					90.67065216529089
-				],
-				[
-					279.92410625303864,
-					177.08467892575808
-				]
-			]
-		},
-		{
-			"id": "K0jaygYc",
-			"type": "text",
-			"x": 234.3961944580078,
-			"y": 81.5765495300293,
-			"width": 99.61990356445312,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 730712029,
-			"version": 79,
-			"versionNonce": 312808051,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1723976698442,
-			"link": null,
-			"locked": false,
-			"text": "Como Dios",
-			"rawText": "Como Dios",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "center",
-			"verticalAlign": "top",
-			"baseline": 17,
-			"containerId": null,
-			"originalText": "Como Dios",
-			"lineHeight": 1.25
-		},
-		{
-			"id": "EyP9gTuC8LM1fUiGJpfc3",
-			"type": "ellipse",
-			"x": -125.0119397210799,
-			"y": -61.504324084406846,
-			"width": 541.0568515477808,
-			"height": 365.7723414766056,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#ffc9c9",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "dashed",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"seed": 1920246611,
-			"version": 112,
-			"versionNonce": 909572435,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1723976738743,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "ellipse",
-			"version": 535,
-			"versionNonce": 2068356701,
-			"isDeleted": false,
-			"id": "oOJo6_cOnvgusgIrP-GNE",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "dashed",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 346.2966449310513,
-			"y": -257.4184948135854,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#ffc9c9",
-			"width": 45.3407829173277,
-			"height": 40.2889741126142,
-			"seed": 1011447347,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1723976856656,
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "c9Q9O5JC",
-			"type": "text",
-			"x": 408.0726107410512,
-			"y": -245.78033947620818,
-			"width": 144.55987548828125,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#ffc9c9",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "dashed",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1003361587,
-			"version": 202,
-			"versionNonce": 1821174749,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1723976868060,
-			"link": null,
-			"locked": false,
-			"text": "Da credibilidad",
-			"rawText": "Da credibilidad",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "center",
-			"verticalAlign": "top",
-			"baseline": 17,
-			"containerId": null,
-			"originalText": "Da credibilidad",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "ellipse",
-			"version": 771,
-			"versionNonce": 1177470653,
-			"isDeleted": false,
-			"id": "XRuyJgIraPKsbb3p99nfm",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "dashed",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -358.038681826472,
-			"y": -22.957503452644744,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "#b2f2bb",
-			"width": 269.06427612691834,
-			"height": 226.35852822344765,
-			"seed": 75823485,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1723976877021,
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "cNOGouXM",
-			"type": "text",
-			"x": 409.05968116109545,
-			"y": -183.21119146460126,
-			"width": 174.2998504638672,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "#b2f2bb",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "dashed",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 105135357,
-			"version": 55,
-			"versionNonce": 1449878013,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1723976876408,
-			"link": null,
-			"locked": false,
-			"text": "No da credibilidad",
-			"rawText": "No da credibilidad",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "center",
-			"verticalAlign": "top",
-			"baseline": 17,
-			"containerId": null,
-			"originalText": "No da credibilidad",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "ellipse",
-			"version": 974,
-			"versionNonce": 1813953107,
-			"isDeleted": false,
-			"id": "IQdkK36MG9tgSKZ0WV4H8",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "dashed",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 349.768813342152,
-			"y": -192.73253691043547,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "#b2f2bb",
-			"width": 41.24283925847748,
-			"height": 34.69679635174433,
-			"seed": 846199677,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1723976884796,
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "9WCV4CcH",
-			"type": "text",
-			"x": 338.1142989677693,
-			"y": -316.2886619118318,
-			"width": 314.059814453125,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#b2f2bb",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "dashed",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1332062589,
-			"version": 422,
-			"versionNonce": 1699475827,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1723977030041,
-			"link": null,
-			"locked": false,
-			"text": "El hecho de la RESURRECCIÓN:",
-			"rawText": "El hecho de la RESURRECCIÓN:",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "center",
-			"verticalAlign": "top",
-			"baseline": 17,
-			"containerId": null,
-			"originalText": "El hecho de la RESURRECCIÓN:",
-			"lineHeight": 1.25
-		},
-		{
-			"id": "Ra6MpuDxWAXnnKZ-T08EY",
-			"type": "rectangle",
-			"x": 331.72844514069754,
-			"y": -283.7216287049978,
-			"width": 438.7568700634713,
-			"height": 168.28207884384693,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "dashed",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 74721821,
-			"version": 122,
-			"versionNonce": 1728357341,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1723977011618,
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "IcxB4fZj",
-			"type": "text",
-			"x": 644.8681445145353,
-			"y": -308.4183824882877,
-			"width": 10,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "dashed",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 708244733,
-			"version": 2,
-			"versionNonce": 1730314995,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1723977024094,
-			"link": null,
-			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "center",
-			"verticalAlign": "top",
-			"baseline": 17,
-			"containerId": null,
-			"originalText": "",
-			"lineHeight": 1.25
-		}
-	],
-	"appState": {
-		"theme": "light",
-		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1e1e1e",
-		"currentItemBackgroundColor": "transparent",
-		"currentItemFillStyle": "hachure",
-		"currentItemStrokeWidth": 0.5,
-		"currentItemStrokeStyle": "dashed",
-		"currentItemRoughness": 1,
-		"currentItemOpacity": 100,
-		"currentItemFontFamily": 1,
-		"currentItemFontSize": 20,
-		"currentItemTextAlign": "center",
-		"currentItemStartArrowhead": null,
-		"currentItemEndArrowhead": "arrow",
-		"scrollX": 418.65107996819376,
-		"scrollY": 452.43380684007366,
-		"zoom": {
-			"value": 0.7869145390391348
-		},
-		"currentItemRoundness": "round",
-		"gridSize": null,
-		"gridColor": {
-			"Bold": "#C9C9C9FF",
-			"Regular": "#EDEDEDFF"
-		},
-		"currentStrokeOptions": null,
-		"previousGridSize": null,
-		"frameRendering": {
-			"enabled": true,
-			"clip": true,
-			"name": true,
-			"outline": true
-		}
-	},
-	"files": {}
-}
+## Drawing
+```compressed-json
+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
 ```
 %%
