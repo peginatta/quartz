@@ -1,21 +1,33 @@
 ---
 title: Fe en Jesucristo
 ---
-Esta es una página en la que encontrarás un montón de recursos con los que armar sesiones de apologética para todas las edades. Cada vez que encuentres un link ([[Mesías]], por ejemplo), puedes hacer click y te llevará a una nota con recursos y más información sobre el tema. Como no sé cual es tu público intentaré ser lo más exhaustivo posible con los recursos. 
+### Introducción
+Esta es una página en la que encontrarás un montón de recursos con los que armar sesiones de apologética para todas las edades. Cada vez que encuentres un link ([[Mesías]], por ejemplo) puedes hacer click y te llevará a una nota con recursos y más información sobre el tema. Como no sé cuál es tu público, intentaré ser lo más exhaustivo posible con los recursos. 
+
+> [!abstract] Esquema
+> Como esquema general para cualquier charla (o serie de charlas, porque hablar de las pruebas y objeciones de la Resurrección ya da para una charla) propongo el índice que aparece en el libro del Padre de Teología fundamental en el apartado de la credibilidad de Jesús [^1]
+> - Creer en Dios como [[Mesías]]
+> 	- Lo dice [[Él mismo]]	
+> 	- Lo dijeron los [[profetas]]
+> 	- Lo dijeron sus [[milagros]]
+> 	- Lo dijo su [[amor]] por los hombres
+> - Creer en Dios como [[Hijo del Padre]]
+> 	- Lo dice [[Él mismo]]
+> 	- Lo dijeron sus [[milagros]]
+> 	- Lo dijo su [[obediencia]]
+> - Creer en Dios como Dios: Resurrección
+> 	- Testimonio [[Testimonio apostólico|apostólico]]: dar la vida por una farsa?
+> 	- Historicidad del [[sepulcro vacío]]
+> 	- Historicidad de las [[apariciones]]
+> 	- De Jesús a [[De Jesús a Jesucristo|Jesucristo]]
 
 
-- Creer en Dios como [[Mesías]]
-	- Lo dice [[él mismo]]
-	- Lo dijeron los profetas
-	- Lo dijeron sus milagros
+> [!danger] Objeciones
+> Para cada uno de los apartados habrá una sección con preguntas frecuentes u [[objeciones]] comunes.
 
-b            ﻿﻿﻿Aplicación a Jesús de los criterios para reconocer a los verdaderos enviados de Dios
 
-c            ﻿﻿﻿Los prodigios salvíficos obrados por Jesús, signos de su misión ..
 
-d            ﻿﻿﻿El amor misericordioso de Jesús a los hombres, motivo para creer en Él como Mesías y Salvador
-
-II. AUTENTICIDAD Y VALOR DEL TESTIMONIO DE JESÚS SOBRE SU FILIA-
+II. AUTENTICIDAD Y VALOR DEL TESTIMONIO DE JESÚS SOBRE SU [[]]FILIA-
 
 CIÓN AL PADRE ...
 
@@ -60,3 +72,7 @@ También añado al final de esta página, links a guiones de charlas que iré ha
 
 
 Cristo existió. Si no tienes claro esto, entonces no es la charla para tí. En estos 30 minutos hablaremos sobre la fe en Jesucristo como [[Mesías]], [[Hijo de Dios]] y [[Señor]]. Ver
+
+
+
+[^1]: Teología Fundamental, Fernando Ocáriz y Arturo Blanco. Esta sección en concreto se llama: XII. Credibilidad de Jesús de Nazaret como Mesías Hijo de Dios y Señor. Lo he modificado, pero me ha servido de esqueleto.

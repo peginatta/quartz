@@ -1,1 +1,1 @@
-Jesus lo dijo [[él mismo]]
+Jesus lo dijo 
