@@ -23,7 +23,8 @@ Hay varias [[objeciones]] al hecho de que estuviese vacío el sepulcro.
  
  
  
- 
+
+# Ideas en curso
  One, the apostles suffered for their belief in the resurrection. Two, the apostles risked martyrdom for their belief in the resurrection. Three, the apostles were martyred for their belief in the resurrection.
 
 
