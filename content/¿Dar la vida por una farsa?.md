@@ -17,12 +17,13 @@ Antes de proseguir con la defensa de la Resurrección de Cristo, hay que demostr
 
 Había varias razones para no presentarse de esa forma. Entre ellas, está la diversidad de concepciones que se tenían sobre cómo sería el Mesías enviado por Dios. Desde los *fariseos* nacionalistas hasta los violentos *zelotes* y *sicarios*, pasando por *esenios* y *saduceos* —estos últimos **no creían en la resurrección de los cuerpos**—. Como Jesús no se identificó con ninguno de esos grupos, es de esperarse que no se autoproclamara como Mesías, usando esa palabra. 
 
-Esto trae consigo una [[objeciones|objeción]]: Cristo no se autoproclamó Mesías porque no lo era. Por tanto, fueron los apóstoles quienes le nombraron como tal, a posteriori. Pero esta tería cae por su propio peso al considerar que Cristo afirmó su carácter Mesiánico en el jucio ante el Sanedrín y como Rey de los Judíos ante Pilato. Además, en Cristo se cumplen inumerables versículos de profetas (los Evangelios están llenos de estas referencias). Finalmente, sus [[milagros]] y misericordia para con los hombres, son motivo para creer en Él como Mesías y Salvador
+Esto trae consigo una [[objeciones|objeción]]: Cristo no se autoproclamó Mesías porque no lo era. Por tanto, fueron los apóstoles quienes le nombraron como tal, a posteriori. Pero esta tería cae por su propio peso al considerar que Cristo afirmó su carácter Mesiánico en el jucio ante el Sanedrín y como Rey de los Judíos ante Pilato. Además, en Cristo se cumplen inumerables versículos de profetas (los Evangelios están llenos de estas referencias). Finalmente, sus [[milagros]] y misericordia para con los hombres, son motivo para creer en Él como Mesías y Salvador. ^r
 
 
 > [!hint] Ojo
+> 
 > Es importante recalcar, antes de continuar, que ninguno de estos grupos  relacionaban al Mesías con la Resurrección: en la concepción Judía no era esperable que el Mesías muriese para luego resucitar. Y sin embargo lo hizo. 
-> ^r
+> 
 
 ## Un Mesías que es Hijo de Dios
 Si bien Cristo no se llama a si mismo Mesías, sí que se llama a sí mismo como *enviado del Padre* algunas veces en los sinópticos (Mt 10, 40 y 21, 37; Mc 9, 3 y 12, 6; Lc 9, 48; 10, 16; 20, 13) y **cuarenta** veces en el Evangelio de Juan (algunas veces reemplazando Padre que me envío por Aquel que me envió).
