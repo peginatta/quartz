@@ -6,9 +6,13 @@ Hoy nos centraremos —luego de defender brevemente que Jesús es el Mesías pro
 
 > “Si no hay resurrección de los muertos, tampoco Cristo ha resucitado. ﻿Y si Cristo no ha resucitado, inútil es nuestra predicación, inútil es también vuestra fe.” (1 Corintios 15:13-14)
 
+^f34809
+
 Pues sin la Resurrección de Cristo, los cristianos serían unos mentirosos, lo sería su Maestro, y su salvación se limitaría a lo material. Y si nos quedamos en lo material, esa salvación se traduciría en un montón de sufrimientos y persecuciones:
 
 > “Y si tenemos puesta la esperanza en Cristo sólo para esta vida, **somos los más miserables de todos los hombres**” (1 Corintios 15:19)
+
+^a2da8c
 
 Por tanto, Cristo sería un Mesías que en vez de salvar a su pueblo, lo estaría condenando. ¿Quién pondría su vida en peligro para defender a un Mesías así? Parece ser, pues, que los discípulos de Jesús vieron "algo". Este "algo" los movió a ir por el mundo dejándolo todo. Y no solo lo dejaron todo (sabemos que hay quienes lo dejan todo por motivos humanos también), si no que estaban dispuestos a **morir** por ello. 
 
@@ -35,7 +39,15 @@ Además, sus milagros los relacionó con su ser Hijo de Dios: «'Muchas obras bu
 ## Morir por ese Mesías
 En teoría, el Mesías tendría que venir a luchar por su pueblo. Pero vemos que después de la muerte de Cristo, los cristianos son los que van cayendo en el campo de batalla por defender la Divinidad de Cristo. Se entiende, pues, que los judíos (todos esos grupos que explicamos antes) rechazasen la idea de que Jesús fuera el Mesías. Por tanto, cuando los cristianos vienen con la historia de que Cristo había resucitado de entre los muertos, se ríen. ¿Qué tiene que ver que resucite alguien con que sea el Mesías (ver introducción)
 
-Pero en esa "debilidad" de los cristianos es la fuerza de un argumento muy popular: el de  "liars make bad martyrs" (los mentirosos son malos mártires), pues ¿quién daría su vida por una mentira? y es comunmente utilizado de manera **erronea** para defender la veracidad de la Resurrección. Su utilidad es otra: la de demostrar la buena fe de los testigos. Estaban convencidos de haber visto a Cristo Resucitado, que esto sea verdad o no, es tema para otra charla.
+Pero en esa «debilidad» de los cristianos está la fuerza de un argumento muy popular: el de  "*liars make bad martyrs*" (los mentirosos son malos mártires), pues ¿quién daría su vida por una mentira? Este argumento es comúnmente utilizado de manera **errónea** para defender la veracidad de la Resurrección. Veremos que su utilidad es otra: la de demostrar la buena fe de los testigos. Estaban convencidos de haber visto a Cristo Resucitado, que esto sea verdad o no, es otro tema, que discutiremos brevemente en el apartado de la alucinación.
+
+Antes de continuar, merece la pena detenernos en los distintos niveles en los que uno puede creer en la Resurrección:
+![[Pasted image 20240821131829.png]]
+### Los Discípulos no vieron a Cristo
+Si los discípulos NO vieron a Cristo, entonces solo queda una opción: son unos mentirosos. Es aquí donde entra el argumento de "*liars make bad martyrs*". Es un argumento que se utiliza mucho, y hasta hay un video muy gracioso en el que se muestra a los Apóstoles en el caso hipotético en el que deciden mentir para.... morir miserablemente y ser perseguidos el resto de sus vidas. 
+
+![Aquí el video:](https://www.youtube.com/watch?v=23UNLLbOS3w)
+
 
 Esta Divinidad se hace patente en la Resurrección (así como el ser Mesías y el ser Hijo de Dios se hacen patentes por lo expuesto [[¿Dar la vida por una farsa?#^r|anteriormente]]). 
 
